@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mayur S. Patil's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mayur S. Patil
+Computer Scientist, Assistant Professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ram.nath241089@gmail.com">ram.nath241089@gmail.com</a>
+| <a href="https://ramlaxman.github.io">My Career Page</a>
 </div>
 
 
