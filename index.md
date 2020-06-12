@@ -2,13 +2,15 @@
 layout: cv
 title: Mayur S. Patil's CV
 ---
+<font align='center'>
+  
 # Mayur S. Patil
 Computer Scientist, Assistant Professor.
 
 <div id="webaddress">
 <a href="mailto:ram.nath241089@gmail.com">ram.nath241089@gmail.com</a>
 | <a href="https://ramlaxman.github.io">My Career Page</a>
-</div>
+</div></font>
 
 
 ## Currently
@@ -27,7 +29,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
+1654-1660
 __The King's School, Grantham.__
 
 `12 June 1661 - now`
