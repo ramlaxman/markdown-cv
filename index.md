@@ -2,7 +2,7 @@
 layout: cv
 title: Mayur S. Patil's CV
 ---
-<font align='center'>
+<p style="text-align:center;">
   
 # Mayur S. Patil
 Computer Scientist, Assistant Professor.
@@ -10,7 +10,7 @@ Computer Scientist, Assistant Professor.
 <div id="webaddress">
 <a href="mailto:ram.nath241089@gmail.com">ram.nath241089@gmail.com</a>
 | <a href="https://ramlaxman.github.io">My Career Page</a>
-</div></font>
+</div></p>
 
 
 ## Currently
